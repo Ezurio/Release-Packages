@@ -13,8 +13,8 @@ For IG60 Releases, Please Visit:
 For 60 Releases, Please Visit:
 <https://github.com/Ezurio/Sterling-60-Release-Packages/releases>
 
-For LWBxx and IFxxx Releases, Please Visit:
-<https://github.com/Ezurio/Sterling-LWB-and-LWB5-Release-Packages/releases>
+For SonaIF and Sterling LWBx Releases, Please Visit:
+<https://github.com/Ezurio/SonaIF-Release-Packages/releases>
 
 For Yocto layer to integrate our radio module releases, Please Visit:
 <https://github.com/Ezurio/meta-summit-radio>
